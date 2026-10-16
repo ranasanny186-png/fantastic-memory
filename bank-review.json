@@ -1,0 +1,2564 @@
+[
+  {
+    "key": "一-choice-1",
+    "page": 31,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "一-choice-2",
+    "page": 31,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "一-choice-3",
+    "page": 32,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "二-judge-1",
+    "page": 33,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "二-judge-2",
+    "page": 33,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "二-judge-3",
+    "page": 33,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "二-judge-4",
+    "page": 33,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "二-judge-5",
+    "page": 33,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "二-judge-6",
+    "page": 34,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "二-judge-7",
+    "page": 34,
+    "status": "excluded",
+    "reason": "旅游与理发供给弹性不能脱离条件比较"
+  },
+  {
+    "key": "二-judge-8",
+    "page": 34,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "二-judge-9",
+    "page": 34,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "二-judge-10",
+    "page": 34,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "二-judge-11",
+    "page": 34,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "二-choice-1",
+    "page": 35,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-2",
+    "page": 35,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-3",
+    "page": 35,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "二-choice-4",
+    "page": 35,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "二-choice-5",
+    "page": 36,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-6",
+    "page": 36,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "二-choice-7",
+    "page": 36,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-8",
+    "page": 37,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-9",
+    "page": 37,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-10",
+    "page": 37,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-11",
+    "page": 37,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-12",
+    "page": 38,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-13",
+    "page": 38,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-14",
+    "page": 38,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "二-choice-15",
+    "page": 39,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-16",
+    "page": 39,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-17",
+    "page": 39,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-18",
+    "page": 39,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "二-choice-19",
+    "page": 40,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-20",
+    "page": 40,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-21",
+    "page": 40,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "二-choice-22",
+    "page": 40,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-23",
+    "page": 41,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-24",
+    "page": 41,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-25",
+    "page": 41,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "二-choice-26",
+    "page": 42,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-27",
+    "page": 42,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-28",
+    "page": 42,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-29",
+    "page": 42,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-30",
+    "page": 43,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "二-choice-31",
+    "page": 43,
+    "status": "excluded",
+    "reason": "仅凭机票打折不能推出弹性，缺少条件"
+  },
+  {
+    "key": "二-choice-32",
+    "page": 43,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "二-choice-33",
+    "page": 44,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-34",
+    "page": 44,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-35",
+    "page": 44,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-36",
+    "page": 45,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-37",
+    "page": 45,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-38",
+    "page": 45,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-39",
+    "page": 45,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "二-choice-40",
+    "page": 46,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-judge-1",
+    "page": 63,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-judge-2",
+    "page": 63,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "三-judge-3",
+    "page": 63,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "三-judge-4",
+    "page": 63,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-judge-5",
+    "page": 63,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "三-judge-6",
+    "page": 63,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-judge-7",
+    "page": 64,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "三-judge-8",
+    "page": 64,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-judge-9",
+    "page": 64,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-judge-10",
+    "page": 64,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-judge-11",
+    "page": 64,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-judge-12",
+    "page": 64,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-judge-13",
+    "page": 65,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-judge-14",
+    "page": 65,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-judge-15",
+    "page": 65,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-choice-1",
+    "page": 65,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "三-choice-2",
+    "page": 66,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-choice-3",
+    "page": 66,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "三-choice-4",
+    "page": 66,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "三-choice-5",
+    "page": 66,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-choice-6",
+    "page": 67,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-choice-7",
+    "page": 67,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-8",
+    "page": 67,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-choice-9",
+    "page": 68,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-choice-10",
+    "page": 68,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-11",
+    "page": 68,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-12",
+    "page": 69,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-13",
+    "page": 69,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-14",
+    "page": 69,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-choice-15",
+    "page": 69,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-choice-16",
+    "page": 70,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-17",
+    "page": 70,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-18",
+    "page": 70,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-19",
+    "page": 70,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-20",
+    "page": 71,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-choice-21",
+    "page": 71,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-22",
+    "page": 71,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-23",
+    "page": 72,
+    "status": "excluded",
+    "reason": "MRS变化不足以分别推出两个MU变化方向"
+  },
+  {
+    "key": "三-choice-24",
+    "page": 72,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-choice-25",
+    "page": 72,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-26",
+    "page": 72,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-27",
+    "page": 73,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-28",
+    "page": 73,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-choice-29",
+    "page": 73,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-30",
+    "page": 74,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-31",
+    "page": 74,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-32",
+    "page": 74,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-33",
+    "page": 75,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-34",
+    "page": 75,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-35",
+    "page": 75,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-choice-36",
+    "page": 75,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-choice-37",
+    "page": 76,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-38",
+    "page": 76,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-39",
+    "page": 76,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-40",
+    "page": 77,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-41",
+    "page": 77,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-42",
+    "page": 77,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-choice-43",
+    "page": 77,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "三-choice-44",
+    "page": 78,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-45",
+    "page": 78,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-46",
+    "page": 78,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-47",
+    "page": 78,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-48",
+    "page": 79,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "三-choice-49",
+    "page": 79,
+    "status": "excluded",
+    "reason": "有限价格变化的补偿标准不明，参考解答不可靠"
+  },
+  {
+    "key": "三-choice-50",
+    "page": 79,
+    "status": "excluded",
+    "reason": "效用函数为缺失图片，无法可靠恢复"
+  },
+  {
+    "key": "四-judge-1",
+    "page": 98,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "四-judge-2",
+    "page": 99,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "四-judge-3",
+    "page": 99,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "四-judge-4",
+    "page": 99,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "四-judge-5",
+    "page": 99,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "四-judge-6",
+    "page": 99,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "四-judge-7",
+    "page": 99,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "四-judge-8",
+    "page": 100,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "四-judge-9",
+    "page": 100,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "四-choice-1",
+    "page": 100,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "四-choice-2",
+    "page": 100,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "四-choice-3",
+    "page": 101,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "四-choice-4",
+    "page": 101,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "四-choice-5",
+    "page": 101,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "四-choice-6",
+    "page": 101,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "四-choice-7",
+    "page": 102,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "四-choice-8",
+    "page": 102,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "四-choice-9",
+    "page": 102,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "四-choice-10",
+    "page": 102,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "四-choice-11",
+    "page": 103,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "四-choice-12",
+    "page": 103,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "四-choice-13",
+    "page": 104,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "四-choice-14",
+    "page": 104,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "四-choice-15",
+    "page": 104,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "四-choice-16",
+    "page": 105,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "四-choice-17",
+    "page": 105,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "四-choice-18",
+    "page": 105,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "四-choice-19",
+    "page": 105,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "四-choice-20",
+    "page": 106,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "四-choice-21",
+    "page": 106,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "四-choice-22",
+    "page": 106,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "四-choice-23",
+    "page": 107,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "四-choice-24",
+    "page": 107,
+    "status": "excluded",
+    "reason": "规模报酬不变不足以推出单要素弹性严格小于1"
+  },
+  {
+    "key": "四-choice-25",
+    "page": 107,
+    "status": "excluded",
+    "reason": "依赖缺失等产量线图"
+  },
+  {
+    "key": "五-judge-1",
+    "page": 122,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-judge-2",
+    "page": 122,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-judge-3",
+    "page": 122,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-judge-4",
+    "page": 122,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-judge-5",
+    "page": 123,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-judge-6",
+    "page": 123,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-judge-7",
+    "page": 123,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-judge-8",
+    "page": 123,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-judge-9",
+    "page": 124,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-judge-10",
+    "page": 124,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-judge-11",
+    "page": 124,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-judge-12",
+    "page": 125,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-judge-13",
+    "page": 125,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-judge-14",
+    "page": 125,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-judge-15",
+    "page": 125,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-judge-16",
+    "page": 125,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-judge-17",
+    "page": 125,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-judge-18",
+    "page": 126,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-choice-1",
+    "page": 126,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "五-choice-2",
+    "page": 126,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "五-choice-3",
+    "page": 126,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "五-choice-4",
+    "page": 127,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-choice-5",
+    "page": 127,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "五-choice-6",
+    "page": 127,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-choice-7",
+    "page": 128,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-choice-8",
+    "page": 128,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "五-choice-9",
+    "page": 128,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "五-choice-10",
+    "page": 128,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-choice-11",
+    "page": 129,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-choice-12",
+    "page": 129,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-choice-13",
+    "page": 129,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "五-choice-14",
+    "page": 129,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-choice-15",
+    "page": 130,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-choice-16",
+    "page": 130,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "五-choice-17",
+    "page": 130,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-choice-18",
+    "page": 131,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-choice-19",
+    "page": 131,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "五-choice-20",
+    "page": 131,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-choice-21",
+    "page": 131,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "五-choice-22",
+    "page": 132,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "五-choice-23",
+    "page": 132,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "五-choice-24",
+    "page": 132,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "五-choice-25",
+    "page": 132,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-choice-26",
+    "page": 133,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "五-choice-27",
+    "page": 133,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "五-choice-28",
+    "page": 134,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "五-choice-29",
+    "page": 134,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-choice-30",
+    "page": 134,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "五-choice-31",
+    "page": 135,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-choice-32",
+    "page": 135,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-choice-33",
+    "page": 135,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-choice-34",
+    "page": 135,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "五-choice-35",
+    "page": 136,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-choice-36",
+    "page": 136,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "五-choice-37",
+    "page": 136,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "五-choice-38",
+    "page": 137,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "五-choice-39",
+    "page": 137,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "六-judge-1",
+    "page": 154,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "六-judge-2",
+    "page": 154,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "六-judge-3",
+    "page": 154,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "六-judge-4",
+    "page": 154,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "六-judge-5",
+    "page": 154,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "六-judge-6",
+    "page": 155,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "六-judge-7",
+    "page": 155,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "六-judge-8",
+    "page": 155,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "六-judge-9",
+    "page": 155,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "六-judge-10",
+    "page": 155,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "六-judge-11",
+    "page": 156,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "六-judge-12",
+    "page": 156,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "六-judge-13",
+    "page": 156,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "六-judge-14",
+    "page": 156,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "六-judge-15",
+    "page": 156,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "六-choice-1",
+    "page": 157,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "六-choice-2",
+    "page": 157,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "六-choice-3",
+    "page": 157,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "六-choice-4",
+    "page": 157,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "六-choice-5",
+    "page": 158,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "六-choice-6",
+    "page": 158,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "六-choice-7",
+    "page": 158,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "六-choice-8",
+    "page": 159,
+    "status": "excluded",
+    "reason": "垄断情形未给MR，原选项无唯一正确项"
+  },
+  {
+    "key": "六-choice-9",
+    "page": 159,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "六-choice-10",
+    "page": 159,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "六-choice-11",
+    "page": 159,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "六-choice-12",
+    "page": 160,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "六-choice-13",
+    "page": 160,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "六-choice-14",
+    "page": 160,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "六-choice-15",
+    "page": 161,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "六-choice-16",
+    "page": 161,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "六-choice-17",
+    "page": 161,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "六-choice-18",
+    "page": 162,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "六-choice-19",
+    "page": 162,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "六-choice-20",
+    "page": 162,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "六-choice-21",
+    "page": 162,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "六-choice-22",
+    "page": 163,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "六-choice-23",
+    "page": 163,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "六-choice-24",
+    "page": 163,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "六-choice-25",
+    "page": 164,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-judge-1",
+    "page": 185,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-judge-2",
+    "page": 185,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-judge-3",
+    "page": 185,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-judge-4",
+    "page": 185,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-judge-5",
+    "page": 185,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-judge-6",
+    "page": 186,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-judge-7",
+    "page": 186,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-judge-8",
+    "page": 186,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-judge-9",
+    "page": 186,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-judge-10",
+    "page": 186,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-judge-11",
+    "page": 187,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-judge-12",
+    "page": 187,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-choice-1",
+    "page": 187,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "七-choice-2",
+    "page": 187,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-choice-3",
+    "page": 187,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "七-choice-4",
+    "page": 188,
+    "status": "excluded",
+    "reason": "技术进步与市场结构无无条件排序"
+  },
+  {
+    "key": "七-choice-5",
+    "page": 188,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-6",
+    "page": 188,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-7",
+    "page": 189,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-choice-8",
+    "page": 189,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-choice-9",
+    "page": 189,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-choice-10",
+    "page": 190,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-11",
+    "page": 190,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-12",
+    "page": 190,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-13",
+    "page": 190,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-14",
+    "page": 191,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-choice-15",
+    "page": 191,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-16",
+    "page": 191,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-17",
+    "page": 191,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-choice-18",
+    "page": 192,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-19",
+    "page": 192,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-20",
+    "page": 192,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-21",
+    "page": 193,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-22",
+    "page": 193,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-23",
+    "page": 193,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-choice-24",
+    "page": 193,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-25",
+    "page": 194,
+    "status": "excluded",
+    "reason": "跨市场效率排序缺少可比成本及竞争行为条件"
+  },
+  {
+    "key": "七-choice-26",
+    "page": 194,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-choice-27",
+    "page": 194,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-28",
+    "page": 195,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-29",
+    "page": 195,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-30",
+    "page": 195,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-31",
+    "page": 195,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-32",
+    "page": 196,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-33",
+    "page": 196,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-34",
+    "page": 196,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-choice-35",
+    "page": 197,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-choice-36",
+    "page": 197,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-37",
+    "page": 197,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-38",
+    "page": 197,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-39",
+    "page": 198,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-40",
+    "page": 198,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-choice-41",
+    "page": 198,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-42",
+    "page": 199,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-choice-43",
+    "page": 199,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-44",
+    "page": 199,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-choice-45",
+    "page": 199,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "七-choice-46",
+    "page": 200,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-47",
+    "page": 200,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-48",
+    "page": 200,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-49",
+    "page": 201,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "七-choice-50",
+    "page": 201,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "八-judge-1",
+    "page": 226,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "八-judge-2",
+    "page": 226,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "八-judge-3",
+    "page": 227,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "八-judge-4",
+    "page": 227,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "八-judge-5",
+    "page": 227,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "八-judge-6",
+    "page": 227,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "八-choice-1",
+    "page": 227,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "八-choice-2",
+    "page": 228,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "八-choice-3",
+    "page": 228,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "八-choice-4",
+    "page": 228,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "八-choice-5",
+    "page": 229,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "八-choice-6",
+    "page": 229,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "八-choice-7",
+    "page": 229,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "八-choice-8",
+    "page": 229,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "八-choice-9",
+    "page": 230,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "八-choice-10",
+    "page": 230,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "八-choice-11",
+    "page": 230,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "八-choice-12",
+    "page": 230,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "八-choice-13",
+    "page": 231,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "八-choice-14",
+    "page": 231,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "八-choice-15",
+    "page": 231,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "八-choice-16",
+    "page": 232,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "八-choice-17",
+    "page": 232,
+    "status": "excluded",
+    "reason": "租金与利润表述混乱且存在多个可疑选项"
+  },
+  {
+    "key": "八-choice-18",
+    "page": 232,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "八-choice-19",
+    "page": 232,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "八-choice-20",
+    "page": 233,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "九-judge-1",
+    "page": 243,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "九-judge-2",
+    "page": 243,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "九-judge-3",
+    "page": 243,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "九-judge-4",
+    "page": 243,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "九-judge-5",
+    "page": 243,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "九-judge-6",
+    "page": 244,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "九-judge-7",
+    "page": 244,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "九-judge-8",
+    "page": 244,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "九-choice-1",
+    "page": 244,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "九-choice-2",
+    "page": 245,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "九-choice-3",
+    "page": 245,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "九-choice-4",
+    "page": 245,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "九-choice-5",
+    "page": 246,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "九-choice-6",
+    "page": 246,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "九-choice-7",
+    "page": 246,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "九-choice-8",
+    "page": 246,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "九-choice-9",
+    "page": 247,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "九-choice-10",
+    "page": 247,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "九-choice-11",
+    "page": 247,
+    "status": "excluded",
+    "reason": "把边际效用直接作人际比较，原选项无可靠正确项"
+  },
+  {
+    "key": "九-choice-12",
+    "page": 247,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "九-choice-13",
+    "page": 248,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "九-choice-14",
+    "page": 248,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "九-choice-15",
+    "page": 248,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "九-choice-16",
+    "page": 249,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "九-choice-17",
+    "page": 249,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "九-choice-18",
+    "page": 250,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "九-choice-19",
+    "page": 250,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "九-choice-20",
+    "page": 251,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "九-choice-21",
+    "page": 251,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "九-choice-22",
+    "page": 251,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "九-choice-23",
+    "page": 251,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "九-choice-24",
+    "page": 252,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "九-choice-25",
+    "page": 252,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "九-choice-26",
+    "page": 252,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "九-choice-27",
+    "page": 252,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "九-choice-28",
+    "page": 253,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "九-choice-29",
+    "page": 253,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "九-choice-30",
+    "page": 253,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "十-judge-1",
+    "page": 266,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十-judge-2",
+    "page": 266,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十-choice-1",
+    "page": 266,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十-choice-2",
+    "page": 267,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "十一-judge-1",
+    "page": 275,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十一-judge-2",
+    "page": 275,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十一-judge-3",
+    "page": 275,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十一-judge-4",
+    "page": 275,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十一-judge-5",
+    "page": 275,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十一-judge-6",
+    "page": 276,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十一-judge-7",
+    "page": 276,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十一-choice-1",
+    "page": 276,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "十一-choice-2",
+    "page": 276,
+    "status": "excluded",
+    "reason": "已由先前精选题覆盖，避免再录入相同来源题"
+  },
+  {
+    "key": "十一-choice-3",
+    "page": 277,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十一-choice-4",
+    "page": 277,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十一-choice-5",
+    "page": 277,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "十一-choice-6",
+    "page": 277,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "十一-choice-7",
+    "page": 278,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "十一-choice-8",
+    "page": 278,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十一-choice-9",
+    "page": 278,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "十一-choice-10",
+    "page": 278,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "十一-choice-11",
+    "page": 279,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "十一-choice-12",
+    "page": 279,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "十一-choice-13",
+    "page": 279,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "十一-choice-14",
+    "page": 279,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "十一-choice-15",
+    "page": 280,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十一-choice-16",
+    "page": 280,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十一-choice-17",
+    "page": 280,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十一-choice-18",
+    "page": 281,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十一-choice-19",
+    "page": 281,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十一-choice-20",
+    "page": 281,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十一-choice-21",
+    "page": 281,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "十一-choice-22",
+    "page": 282,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "十一-choice-23",
+    "page": 282,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "十一-choice-24",
+    "page": 282,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "十一-choice-25",
+    "page": 282,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十一-choice-26",
+    "page": 283,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十一-choice-27",
+    "page": 283,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十一-choice-28",
+    "page": 283,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十一-choice-29",
+    "page": 284,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "十一-choice-30",
+    "page": 284,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十一-choice-31",
+    "page": 284,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "十一-choice-32",
+    "page": 285,
+    "status": "excluded",
+    "reason": "多个选项均可能是道德风险，无法唯一选择"
+  },
+  {
+    "key": "十一-choice-33",
+    "page": 285,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "十一-choice-34",
+    "page": 285,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "十一-choice-35",
+    "page": 286,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "十一-choice-36",
+    "page": 286,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "十一-choice-37",
+    "page": 286,
+    "status": "imported",
+    "corrected": true
+  },
+  {
+    "key": "十一-choice-38",
+    "page": 286,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "十一-choice-39",
+    "page": 287,
+    "status": "imported",
+    "corrected": false
+  },
+  {
+    "key": "十一-choice-40",
+    "page": 287,
+    "status": "imported",
+    "corrected": false
+  }
+]

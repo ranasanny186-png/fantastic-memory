@@ -10,7 +10,7 @@ root = Path(__file__).resolve().parent
 html = (root / 'index.html').read_text(encoding='utf-8')
 style = '<style>\n' + (root / 'style.css').read_text(encoding='utf-8') + '\n</style>'
 html = re.sub(r'<link rel="stylesheet" href="style\.css(?:\?[^\"]*)?">', lambda _: style, html)
-for name in ('content', 'additions', 'textbook', 'app', 'practice', 'exam'):
+for name in ('content', 'additions', 'textbook', 'bank-expansion', 'written-expansion', 'app', 'practice', 'exam'):
     code = (root / (name + '.js')).read_text(encoding='utf-8')
     replacement = '<script>\n' + code.replace('</script', '<\\/script') + '\n</script>'
     html = re.sub(r'<script src="' + name + r'\.js(?:\?[^\"]*)?"></script>', lambda _: replacement, html)

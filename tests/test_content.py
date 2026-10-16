@@ -2,11 +2,11 @@
 import json, subprocess, math
 from pathlib import Path
 root=Path(__file__).resolve().parents[1]
-code="const fs=require('fs'),vm=require('vm');const c=vm.createContext({});vm.runInContext(['content.js','additions.js','textbook.js'].map(f=>fs.readFileSync(f,'utf8')).join(String.fromCharCode(10)),c);process.stdout.write(vm.runInContext('JSON.stringify({topics,questions})',c));"
+code="const fs=require('fs'),vm=require('vm');const c=vm.createContext({});vm.runInContext(['content.js','additions.js','textbook.js','bank-expansion.js','written-expansion.js'].map(f=>fs.readFileSync(f,'utf8')).join(String.fromCharCode(10)),c);process.stdout.write(vm.runInContext('JSON.stringify({topics,questions})',c));"
 data=json.loads(subprocess.check_output(['node','-e',code],cwd=root,text=True))
 qs=data['questions']
-assert len(data['topics'])==83 and len(qs)==209
-calcs=[q for q in qs if q['type']=='calc']
+assert len(data['topics'])==83 and len(qs)==650
+calcs=[q for q in qs[:209] if q['type']=='calc']
 expected=[
  [150,250,155,145,245],
  [0.5*24*(17-11),0.5*24*(9-3),2*24,196-(72+72+48)],
@@ -52,7 +52,7 @@ for old,new in zip(previous['questions'],qs[:75]):
 print('PASS: 27 calculation exercises independently recomputed; all 59 original topic IDs and 75 original questions unchanged')
 
 active=[q for q in qs if q.get('active') is not False]
-assert len(active)==205
+assert len(active)==646
 assert {q['type'] for q in active}=={'choice','judge','calc','graph'}
 assert len([q for q in qs if q.get('active') is False])==4
 assert all(q.get('source') for q in qs[149:])

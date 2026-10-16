@@ -20,11 +20,11 @@ with sync_playwright() as p:
     assert page.locator('[data-learn]').count()>0
     # Data completeness, all old IDs unchanged and all newly appended items have sources.
     data=page.evaluate('({questions,topics})')
-    assert len(data['questions'])==209
+    assert len(data['questions'])==650
     assert all(q.get('explanation') and q.get('type') for q in data['questions'])
     assert all(q.get('source') for q in data['questions'][75:])
     assert data['questions'][0]['answer']==1
-    assert page.evaluate('activeQuestionIds().length')==205
+    assert page.evaluate('activeQuestionIds().length')==646
     assert page.evaluate('Object.keys(typeNames)')==['choice','judge','calc','graph']
     assert len({q['topic'] for q in data['questions'] if q.get('active') is not False})==83
     # Run every question through its real practice UI, including number entry and drawn strokes.
@@ -46,8 +46,8 @@ with sync_playwright() as p:
         if q['type'] in ['graph','short']:
             page.get_by_label('自评分数',exact=True).fill(str(10 if q['type']=='graph' else 6))
         page.locator('#submit').click()
-    assert '205 / 205' in page.locator('.score').inner_text()
-    assert page.evaluate('state.attempts')==206
+    assert '646 / 646' in page.locator('.score').inner_text()
+    assert page.evaluate('state.attempts')==647
     # Wrong answers, objective and partial self-assessment, remain in the wrong-question list.
     page.evaluate("chapter='all';practiceType='all';page='practice';startSession([100,136]);render()")
     page.locator('[data-option="0"]').click() # judge 100 is false
@@ -149,5 +149,5 @@ with sync_playwright() as p:
     other.get_by_role('button',name='模拟考试',exact=True).click()
     assert other.locator('#generate-exam').count()==1
     assert not errors,errors
-    print('PASS: 205 active practice questions, 83 knowledge cards, automatic & self grading, strokes, old progress, 100-point random exam, no duplicates, resume, hidden answers, self-grade amendments, timeout, backups, standalone, mobile layouts, no JS errors')
+    print('PASS: 646 active practice questions, 83 knowledge cards, automatic & self grading, strokes, old progress, 100-point random exam, no duplicates, resume, hidden answers, self-grade amendments, timeout, backups, standalone, mobile layouts, no JS errors')
     browser.close()
