@@ -8,26 +8,29 @@ with sync_playwright() as p:
     page=browser.new_page(viewport={'width':1440,'height':1000})
     errors=[]
     page.on('pageerror',lambda e: errors.append(str(e)))
-    page.goto('http://127.0.0.1:3010/')
+    page.goto('http://127.0.0.1:3030/')
     page.evaluate("localStorage.clear();localStorage.setItem('zhixu-v1',JSON.stringify({learned:[0,58],answers:{0:{correct:false,selected:0}},attempts:1,correct:0}))")
     page.reload()
     assert page.locator('.chapter').count()==8
     assert page.locator('#wrong-count').inner_text()=='1'
     page.get_by_role('button',name='知识手册',exact=True).click()
-    assert page.locator('[data-learn]').count()==73
+    assert page.locator('[data-learn]').count()==83
     assert page.locator('[aria-pressed=true]').count()==2
     page.get_by_label('搜索知识点').fill('外部性')
     assert page.locator('[data-learn]').count()>0
     # Data completeness, all old IDs unchanged and all newly appended items have sources.
     data=page.evaluate('({questions,topics})')
-    assert len(data['questions'])==149
+    assert len(data['questions'])==209
     assert all(q.get('explanation') and q.get('type') for q in data['questions'])
     assert all(q.get('source') for q in data['questions'][75:])
     assert data['questions'][0]['answer']==1
-    assert len({q['topic'] for q in data['questions']})==73
+    assert page.evaluate('activeQuestionIds().length')==205
+    assert page.evaluate('Object.keys(typeNames)')==['choice','judge','calc','graph']
+    assert len({q['topic'] for q in data['questions'] if q.get('active') is not False})==83
     # Run every question through its real practice UI, including number entry and drawn strokes.
     page.evaluate("chapter='all';practiceType='all';page='practice';startSession(questions.map((_,i)=>i));render()")
     for i,q in enumerate(data['questions']):
+        if q.get('active') is False:continue
         if q['type'] in ['choice','judge']:
             page.locator(f'[data-option="{q["answer"]}"]').click()
         elif q['type']=='calc':
@@ -43,8 +46,8 @@ with sync_playwright() as p:
         if q['type'] in ['graph','short']:
             page.get_by_label('自评分数',exact=True).fill(str(10 if q['type']=='graph' else 6))
         page.locator('#submit').click()
-    assert '149 / 149' in page.locator('.score').inner_text()
-    assert page.evaluate('state.attempts')==150
+    assert '205 / 205' in page.locator('.score').inner_text()
+    assert page.evaluate('state.attempts')==206
     # Wrong answers, objective and partial self-assessment, remain in the wrong-question list.
     page.evaluate("chapter='all';practiceType='all';page='practice';startSession([100,136]);render()")
     page.locator('[data-option="0"]').click() # judge 100 is false
@@ -146,5 +149,5 @@ with sync_playwright() as p:
     other.get_by_role('button',name='模拟考试',exact=True).click()
     assert other.locator('#generate-exam').count()==1
     assert not errors,errors
-    print('PASS: 149 practice questions, 73 knowledge cards, automatic & self grading, strokes, old progress, 100-point random exam, no duplicates, resume, hidden answers, self-grade amendments, timeout, backups, standalone, mobile layouts, no JS errors')
+    print('PASS: 205 active practice questions, 83 knowledge cards, automatic & self grading, strokes, old progress, 100-point random exam, no duplicates, resume, hidden answers, self-grade amendments, timeout, backups, standalone, mobile layouts, no JS errors')
     browser.close()
