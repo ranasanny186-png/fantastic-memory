@@ -8,7 +8,7 @@ with sync_playwright() as p:
     page=browser.new_page(viewport={'width':1440,'height':1000})
     errors=[]
     page.on('pageerror',lambda e: errors.append(str(e)))
-    page.goto('http://127.0.0.1:3030/')
+    page.goto('http://127.0.0.1:3040/')
     page.evaluate("localStorage.clear();localStorage.setItem('zhixu-v1',JSON.stringify({learned:[0,58],answers:{0:{correct:false,selected:0}},attempts:1,correct:0}))")
     page.reload()
     assert page.locator('.chapter').count()==8
