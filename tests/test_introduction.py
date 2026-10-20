@@ -1,5 +1,6 @@
 """Verify introduction integration and saved progress compatibility in the actual page."""
 from playwright.sync_api import sync_playwright
+from pathlib import Path
 with sync_playwright() as p:
  b=p.chromium.launch(executable_path='/usr/bin/chromium',headless=True,args=['--no-sandbox'])
  pg=b.new_page(viewport={'width':1440,'height':1000}); errors=[]
@@ -41,7 +42,8 @@ with sync_playwright() as p:
  pg.get_by_role('button',name='学习总览',exact=True).click()
  assert pg.evaluate('document.documentElement.scrollWidth<=innerWidth')
  assert not errors,errors
- pg.goto('file:///tmp/知序-经济学学习室-学习与模考版.html')
+ pg.goto('about:blank')
+ pg.set_content(Path('/tmp/知序-经济学学习室-学习与模考版.html').read_text(), wait_until='load')
  assert pg.locator('.chapter h3').first.inner_text()=='导论'
  assert pg.evaluate('activeQuestionIds().length')==684
  b.close()
